@@ -2,7 +2,7 @@
 
 Eco Notes is a simple and intuitive note-taking application designed to help you organize your thoughts and tasks efficiently. Built with a focus on usability and performance, Eco Notes aims to provide a seamless experience for all your note-taking needs.
 
-###To visit my live project, [click here](https://eco-notes-coral.vercel.app/).
+### To visit my live project, [click here](https://eco-notes-coral.vercel.app/).
 ## Features
 
 - **Add Notes**: Quickly add and save notes with ease.
